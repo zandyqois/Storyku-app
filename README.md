@@ -6,6 +6,10 @@ Disini aplikasi yang saya buat belum sempurna karena backend dan frontend aplika
 Namun, untuk API yang saya buat sudah bisa berjalan dengan baik sesuai dengan fitur yang diminta.
 Kemudian untuk tampilan website sudah saya buat semirip mungkin mengikuti struktur yang diminta.
 
+Progress backend 100% done.
+
+Progress frontend 80% done.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
